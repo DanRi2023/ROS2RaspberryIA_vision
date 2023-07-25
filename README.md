@@ -1,2 +1,7 @@
-# ROS2RaspberryIA_vision
-Repo basado en RaspberryPI
+# Intelligent vision Robot
+Repo basado en RaspberryPI and contains some good projects
+
+
+### Nodes
+- Publisher
+- Subscriber
