@@ -1,4 +1,4 @@
-# Intelligent vision Robot
+# Intelligent vision Robot IA
 Repo basado en RaspberryPI and contains some good projects
 
 
