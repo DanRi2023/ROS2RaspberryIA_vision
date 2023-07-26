@@ -14,7 +14,7 @@ class MinimalPublisher(Node):
         self.i = 0
 
     def timer_callback(self):
-        msg = String()
+        msg = Int16()
         msg.data = self.iterator
         self.publisher_.publish(msg)
         self.get_logger().info('Publishing: "%s"' % msg.data)
